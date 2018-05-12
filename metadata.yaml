@@ -1,0 +1,37 @@
+_repo: How-the-Other-Half-LivesStudies-Among-the-Tenements-of-New-York_45502
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45502-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: How the Other Half Lives was a pioneering work of photojournalism by
+  Jacob Riis, documenting the squalid living conditions in New York City slums in
+  the 1880s. It served as a basis for future muckraking journalism by exposing the
+  slums to New York City's upper and middle class. How The Other Half Lives quickly
+  became a landmark in the annals of social reform. Riis documented the filth, disease,
+  exploitation, and overcrowding that characterized the experience of more than one
+  million immigrants. He helped push tenement reform to the front of New York's political
+  agenda, and prompted then-Police.
+gutenberg_issued: '2014-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45502'
+  lccn: '04011775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- New York (State) -- New York'
+- !lcsh 'Tenement houses -- New York (State) -- New York'
+- !lcc 'HV'
+title: 'How the Other Half Lives: Studies Among the Tenements of New York'
+url: http://www.gutenberg.org/ebooks/45502
